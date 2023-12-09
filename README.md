@@ -1,3 +1,3 @@
-# flutter_application_1
+# Expense Tracker Application
 
 A new Flutter project.
